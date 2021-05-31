@@ -12,7 +12,7 @@
 **#growth_mindset**
 
 
-**what growth mindset mean?**
+**what growth mindset is mean?**
 
 
 ***growth mindset is the way that how you bush yourself to do the best whether you have the skills or the talent or nothing of it so you will keep bushing up yourself that you can do it what ever the circumstances are.***
