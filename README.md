@@ -12,6 +12,8 @@
 **#growth_mindset**
 
 
+[image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.strengthscope.com%2Fhow-to-develop-a-growth-mindset%2F&psig=AOvVaw2af4QncPVXaqOdfENDBr-c&ust=1622559880801000&source=images&cd=vfe&ved=2ahUKEwidmuzbmPTwAhU10bsIHdA5CjcQjRx6BAgAEAc)
+
 **what growth mindset is mean?**
 
 
