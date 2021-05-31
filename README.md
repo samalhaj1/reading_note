@@ -9,12 +9,11 @@
 *Now i am a private lessons teacher.*
 
 
-**#growth_mindset**
+# growth_mindset
 
+![image](https://www.strengthscope.com/wp-content/uploads/2021/01/Growth-v-fixed-mindset-1536x1088.jpg)
 
-[image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.strengthscope.com%2Fhow-to-develop-a-growth-mindset%2F&psig=AOvVaw2af4QncPVXaqOdfENDBr-c&ust=1622559880801000&source=images&cd=vfe&ved=2ahUKEwidmuzbmPTwAhU10bsIHdA5CjcQjRx6BAgAEAc)
-
-**what growth mindset is mean?**
+**growth mindset is mean?**
 
 
 ***growth mindset is the way that how you bush yourself to do the best whether you have the skills or the talent or nothing of it so you will keep bushing up yourself that you can do it what ever the circumstances are.***
