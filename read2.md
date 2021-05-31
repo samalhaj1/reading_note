@@ -16,35 +16,35 @@
 
 ![image](https://serengetitech.com/wp-content/uploads/2020/12/distributed-version-control.png)
 
-## so what is Git?
+## what is Git?
 
-### Snapshots
+*Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.*
 
-*Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.*
+*Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.*
 
-### Local Operations
+### Branching and Merging
 
-*Git mostly relies on local operations because most necessary information can be found in local resources. This allows for process expediency because a project’s history resides on the local disk, eliminating the need to fetch history information from the server, and allowing one to continue work on a project even when not online or on a VPN.*
+*The Git feature that really makes it stand apart from nearly every other SCM out there is its branching model.*
 
-### Tracking Changes
+*Git allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development takes seconds.*
 
-*Every single change applied to any file or directory is tracked by Git. And, as the gatekeeper, Git will always detect file corruption or loss of information in transit*
+**This means that you can do things like:**
 
-### Loss of Data
+#### Frictionless Context Switching.
 
-*Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.*
+*Create a branch to try out an idea, commit a few times, switch back to where you branched from, apply a patch, switch back to where you are experimenting, and merge it in.*
 
-### States
+### Role-Based Codelines.
 
-*Files in Git can reside in three main states: committed, modified and staged.*
+*Have a branch that always contains only what goes to production, another that you merge work into for testing, and several smaller ones for day to day work.*
 
-### Committed
+#### Feature Based Workflow.
 
-*Data is securely stored in a local database*
+*Create new branches for each new feature you're working on so you can seamlessly switch back and forth between them, then delete each branch when that feature gets merged into your main line.*
 
-### Modified
+#### Disposable Experimentation.
 
-*File has been changed but not committed to the database*
+*Create a branch to experiment in, realize it's not going to work, and just delete it - abandoning the work—with nobody else ever seeing it (even if you've pushed other branches in the meantime)*
 
-
+[Git](https://git-scm.com/about)
 
