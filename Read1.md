@@ -9,5 +9,5 @@
 
 1. headers # headers ## heders ### headers .......... ###### headers
 2. imphasis *read* italic   **read** bold
-3. image ![image](url)
-4. links [link](https://.........com)  
+3. image ![image](https://miro.medium.com/max/1400/0*lzRmzAy5OICef7rK.png)
+4. links [link](https://samalhaj1.com)  
