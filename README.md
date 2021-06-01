@@ -1,29 +1,18 @@
 # reading_not
-## Introduction 
+## Introduction
+### Welcome to my home page
+
 [samalhaj](https://github.com/samalhaj1)
 
-*Hi my name is Samera but my friends and family call me Sam i am from Syria i have been in Jordan for 7 years i am 26 years old,*
+*Hi my name Is Samera but my friends and family call me Sam I am from Syria I have been in Jordan for 7 years I am 26 years old.*
 
-*I studied translation at zarqa private university and graduated in 2018.*
+*I studied translation at Zarqa Private University and graduated in 2018.*
 
-*Now i am a private lessons teacher.*
-
-
-# growth_mindset
-
-![image](https://www.strengthscope.com/wp-content/uploads/2021/01/Growth-v-fixed-mindset-1536x1088.jpg)
-
-**growth mindset is mean?**
+*Now I am a private lessons teacher.*
 
 
-***growth mindset is the way that how you bush yourself to do the best whether you have the skills or the talent or nothing of it so you will keep bushing up yourself that you can do it what ever the circumstances are.***
-
-
-**how to remind yourself to keep it in growth mindset?**
-
-
-*do more effort*
-
-*be patient*
-
-*dont waste the time*
+class  |The Content 
+-----  |-----
+1.     |[Git](Git)
+2.     |[Markdown](Markdown)
+3.     |[Mindset](Mindset)
