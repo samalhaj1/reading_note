@@ -16,3 +16,4 @@ class  |The Content
 1.     |[Git](Git)
 2.     |[Markdown](Markdown)
 3.     |[Mindset](Mindset)
+4.     |[Wireframes](Wireframes)
