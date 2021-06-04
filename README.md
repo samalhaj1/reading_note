@@ -18,3 +18,4 @@ class  |The Content
 3.     |[Mindset](Mindset)
 4.     |[Wireframes](Wireframes)
 5.     |[operators](https://replit.com/@samalhaj1/readingnote-2#operators.md)
+6.     |[CSS](https://replit.com/@samalhaj1/readingnote-2#CSS.md)
