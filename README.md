@@ -17,3 +17,4 @@ class  |The Content
 2.     |[Markdown](Markdown)
 3.     |[Mindset](Mindset)
 4.     |[Wireframes](Wireframes)
+5.     |[operators](https://replit.com/@samalhaj1/readingnote-2#operators.md)
