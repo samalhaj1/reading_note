@@ -13,9 +13,9 @@
 
 class  |The Content 
 -----  |-----
-1.     |[Git](Git)
-2.     |[Markdown](Markdown)
-3.     |[Mindset](Mindset)
-4.     |[Wireframes](Wireframes)
-5.     |[operators](https://replit.com/@samalhaj1/readingnote-2#operators.md)
-6.     |[CSS](https://replit.com/@samalhaj1/readingnote-2#CSS.md)
+1.     |[Git](https://samalhaj1.github.io/reading_note/Git)
+2.     |[Markdown](https://samalhaj1.github.io/reading_note/Markdown)
+3.     |[Mindset](https://samalhaj1.github.io/reading_note/Mindset)
+4.     |[Wireframes](https://samalhaj1.github.io/reading_note/Wireframes)
+5.     |[operators](https://samalhaj1.github.io/reading_note/operator)
+6.     |[CSS](https://samalhaj1.github.io/reading_note/CSS)
