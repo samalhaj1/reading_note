@@ -19,6 +19,6 @@ class  |The Content
 4.     |[Wireframes](https://samalhaj1.github.io/reading_note/Wireframes)
 5.     |[operators](https://samalhaj1.github.io/reading_note/operator)
 6.     |[CSS](https://samalhaj1.github.io/reading_note/CSS)
-7.     |[programming with js](https://samalhaj1.github.io/reading_note/programmingwithjs)
+7.     |[programming with js](https://samalhaj1.github.io/reading_note/programming)
 8.     |[java](https://samalhaj1.github.io/reading_note/java)
 
